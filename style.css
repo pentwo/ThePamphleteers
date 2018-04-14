@@ -1,0 +1,19 @@
+* {
+  font-family: 'Courier New', Courier, monospace;
+  /* font-size: 1.3rem; */
+
+}
+table {
+  font-weight: 600;
+}
+
+
+.tableSouth {
+  display: none;
+}
+.tableNorth {
+  display: inherit;
+}
+.tableRockMan {
+  display: none;
+}
