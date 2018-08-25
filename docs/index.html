@@ -6,42 +6,49 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>The Pamphleteers Deliver Schedules</title>
+  <link href="/docs/imgs/favicon.ico" rel="icon" type="image/x-icon" />
 </head>
-
 
 <body>
   <section class="section">
     <div class="container">
-      <h1 class="title has-text-centered">The Phamphleteers</h1>
-      <h2 class="title has-text-centered">Delivery Areas</h>
+      <h1 class="title has-text-centered">The Pamphleteers</h1>
+      <h2 class="title has-text-centered">Delivery Areas
+        </h>
     </div>
   </section>
   <section class="section">
-    <div class="container">
-      <div class="tabs is-centered is-toggle">
-        <ul>
-          <li class="list list-north is-active">
-            <a class="northArea" onclick="showNorth()">North</a>
-          </li>
-          <li class="list list-south">
-            <a class="southArea" onclick="showSouth()">South</a>
-          </li>
-          <li class="list list-rock">
-            <a class="rockArea" onclick="showRockMan()">Rock / Man</a>
-          </li>
-        </ul>
-      </div>
-      <!--
+    <div class="container is-fluid ">
       <div class="columns is-centered">
-        <div class="column"> -->
-      <table class="table tableNorth">
-      </table>
-      <table class="table tableSouth">
-      </table>
-      <table class="table tableRockMan">
-      </table>
-      <!-- </div>
-      </div> -->
+        <div class="column"></div>
+        <div class="field is-grouped buttons ">
+          <a class="northArea button is-success " onclick="showNorth()">North</a>
+          <a class="southArea button is-link " onclick="showSouth()">South</a>
+          <a class="rockArea button is-info " onclick="showRockMan()">Rock / Man</a>
+        </div>
+        <div class="column"></div>
+      </div>
+
+
+      <div class="columns is-centered">
+        <div class="column"></div>
+        <div class="column is-primary is-centered">
+
+
+          <!-- <table class="table tableNorth is-centered">
+          </table>
+
+          <table class="table tableSouth is-centered">
+          </table>
+
+          <table class="table tableRockMan is-centered">
+          </table> -->
+          <table class="table is-centered">
+          </table>
+        </div>
+        <div class="column"></div>
+
+      </div>
     </div>
   </section>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.2/css/bulma.css">
