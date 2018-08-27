@@ -660,13 +660,13 @@
     "Links": "http://goo.gl/xuCLQ6"
   },
   {
-    "Suburb": "Canning Vale East",
+    "Suburb": "Canning vale East",
     "Houses": 4050,
     "Area": "South",
     "Links": "https://www.google.com/maps/d/edit?mid=z-h-IP-hAuWI.k5hueJQLCifk"
   },
   {
-    "Suburb": "Canning Vale West",
+    "Suburb": "Canning vale West",
     "Houses": 4800,
     "Area": "South",
     "Links": "https://www.google.com/maps/d/edit?mid=z-h-IP-hAuWI.k_z_sQQJ-7es"
@@ -726,7 +726,7 @@
     "Links": "http://goo.gl/weigwt"
   },
   {
-    "Suburb": "East Vic Park",
+    "Suburb": "East vic Park",
     "Houses": 3250,
     "Area": "South",
     "Links": "http://goo.gl/6AxaN7"
@@ -750,7 +750,7 @@
     "Links": "http://goo.gl/9lP1LT"
   },
   {
-    "Suburb": "Gooseberry Hill West",
+    "Suburb": "Gooseberry hill West",
     "Houses": 1600,
     "Area": "South",
     "Links": "https://www.google.com/maps/d/viewer?mid=1pWcfO6Sg_jW0CqvI4oMpd_d8gyQ&ll=-31.952019835604794%2C116.02646114999993&z=14"
@@ -900,7 +900,7 @@
     "Links": "http://goo.gl/KgXpD9"
   },
   {
-    "Suburb": "O%u2019Connor",
+    "Suburb": "O%U2019connor",
     "Houses": 200,
     "Area": "South",
     "Links": "http://goo.gl/0xx09o"
@@ -1026,7 +1026,7 @@
     "Links": "https://www.google.com/maps/d/edit?mid=1-ZeFN4wYYF4N5TXecoV1zgNatSQ"
   },
   {
-    "Suburb": "White Gum Valley",
+    "Suburb": "White gum Valley",
     "Houses": 950,
     "Area": "South",
     "Links": "http://goo.gl/Ix78I0"
@@ -1062,223 +1062,223 @@
     "Links": "http://goo.gl/bvJtG2"
   },
   {
-    "Suburb": "ATWELL",
+    "Suburb": "Atwell",
     "Houses": 2500,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D11UkIqXqj9yBXgP1vZ7taiaRQb9o%26ll%3D-32.14233161804191%252C115.86554999999998%26z%3D15&sa=D&ust=1534598122577000,"
   },
   {
-    "Suburb": "DUDLEY PARK",
+    "Suburb": "Dudley Park",
     "Houses": 2500,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://drive.google.com/open?id%3D1mlIAiejwwEmuiNrpNpFNgi8g5GI%26usp%3Dsharing&sa=D&ust=1534598122577000,"
   },
   {
-    "Suburb": "MANDURAH",
+    "Suburb": "Mandurah",
     "Houses": 4200,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://drive.google.com/open?id%3D1RtXQ_gTST6OWWZlzSB9arKICj_c%26usp%3Dsharing&sa=D&ust=1534598122578000,"
   },
   {
-    "Suburb": "MEDINA",
+    "Suburb": "Medina",
     "Houses": 1075,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D1_M0gjzYeTwOWSoDw1m45pua4ecA%26ll%3D-32.22495737984005%252C115.79407455711669%26z%3D14&sa=D&ust=1534598122578000,"
   },
   {
-    "Suburb": "PARMELIA",
+    "Suburb": "Parmelia",
     "Houses": 2325,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://drive.google.com/open?id%3D1zPmWdbH9HnjrCTk0trsnPHRLCOI%26usp%3Dsharing&sa=D&ust=1534598122579000,"
   },
   {
-    "Suburb": "ROCKINGHAM",
+    "Suburb": "Rockingham",
     "Houses": 5800,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D1b4JU7eyUKiNbevvDjvDj5oYN7t4%26ll%3D-32.27829146627553%252C115.73435784305423%26z%3D14&sa=D&ust=1534598122579000,"
   },
   {
-    "Suburb": "SECRET HARBOUR",
+    "Suburb": "Secret Harbour",
     "Houses": 3350,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://drive.google.com/open?id%3D1CHJh8_VlQe0O8Ru8yz4AoWU1D74%26usp%3Dsharing&sa=D&ust=1534598122580000,"
   },
   {
-    "Suburb": "WELLARD",
+    "Suburb": "Wellard",
     "Houses": 3500,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D1r0CKL1HNE_v_6AJmc6J-XQ18Kh8%26ll%3D-32.26963752245548%252C115.82877163115234%26z%3D14&sa=D&ust=1534598122580000,"
   },
   {
-    "Suburb": "BERTRAM",
+    "Suburb": "Bertram",
     "Houses": 1950,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D1TLygBM3AgsZQvp4q3R2znyHl4y0%26ll%3D-32.24870248660383%252C115.8482122569153%26z%3D15&sa=D&ust=1534598122581000,"
   },
   {
-    "Suburb": "CALISTA",
+    "Suburb": "Calista",
     "Houses": 750,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D1bnHDdF0ig1j7Hnwr5tPSR83OHT0%26ll%3D-32.24649878671613%252C115.80731391931158%26z%3D16&sa=D&ust=1534598122581000,"
   },
   {
-    "Suburb": "DAWESVILLE",
+    "Suburb": "Dawesville",
     "Houses": 2500,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D1TK13SWANo3z4wu07F3smmFxo1mQ%26ll%3D-32.63644103709099%252C115.61213493237301%26z%3D14&sa=D&ust=1534598122582000,"
   },
   {
-    "Suburb": "FALCON",
+    "Suburb": "Falcon",
     "Houses": 2325,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://drive.google.com/open?id%3D1WIh7-EHmM6TAsqLJMs1fH5JfOhA%26usp%3Dsharing&sa=D&ust=1534598122582000,"
   },
   {
-    "Suburb": "HILLMAN",
+    "Suburb": "Hillman",
     "Houses": 725,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D1EIjomQyPdii9FwgAObN_NPo9ud4%26ll%3D-32.28288741036863%252C115.77096463305054%26z%3D16&sa=D&ust=1534598122583000,"
   },
   {
-    "Suburb": "LAKELANDS",
+    "Suburb": "Lakelands",
     "Houses": 1600,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D101-7bljOq5DPSBitMozxK5MI_xg%26ll%3D-32.47113152025526%252C115.77328205000003%26z%3D14&sa=D&ust=1534598122583000,"
   },
   {
-    "Suburb": "LEDA",
+    "Suburb": "Leda",
     "Houses": 1075,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D1M0mhU0dXc5UNbObYqn8EoaQPDGo%26ll%3D-32.25859242921581%252C115.78743342057805%26z%3D15&sa=D&ust=1534598122584000,"
   },
   {
-    "Suburb": "MADORA BAY",
+    "Suburb": "Madora Bay",
     "Houses": 1100,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D15K92a7PgBrfxYxkyMHuK4dNhAGI%26ll%3D-32.47553546935059%252C115.75263975000007%26z%3D15&sa=D&ust=1534598122584000,"
   },
   {
-    "Suburb": "ORELIA",
+    "Suburb": "Orelia",
     "Houses": 1800,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D1KmOheXRlGdLaN5i_v-vMwLKT7-M%26ll%3D-32.23485477165495%252C115.82973716855463%26z%3D15&sa=D&ust=1534598122585000,"
   },
   {
-    "Suburb": "SAFETY BAY",
+    "Suburb": "Safety Bay",
     "Houses": 2700,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D1ajQagsQmpxQ7PgLE0WoxcS0zP2k%26ll%3D-32.29648578806403%252C115.74774740595694%26z%3D14&sa=D&ust=1534598122586000,"
   },
   {
-    "Suburb": "SHOALWATER",
+    "Suburb": "Shoalwater",
     "Houses": 1700,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D1da77Zl7Md7wNMuG_S5JElvSUGGA%26ll%3D-32.297207153304655%252C115.69844838215636%26z%3D15&sa=D&ust=1534598122586000,"
   },
   {
-    "Suburb": "SUCCESS",
+    "Suburb": "Success",
     "Houses": 3000,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?hl%3Den%26mid%3D1mKNfJrVCwBIdbFzwqf4TgQRMeqI%26ll%3D-32.143743881443356%252C115.84804054999995%26z%3D14&sa=D&ust=1534598122587000,"
   },
   {
-    "Suburb": "WANNANUP",
+    "Suburb": "Wannanup",
     "Houses": 1500,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?hl%3Den%26mid%3D16AvLhv9DELhYlweqW1BFa82ZaWc%26ll%3D-32.60105849687811%252C115.64543720000006%26z%3D15&sa=D&ust=1534598122587000,"
   },
   {
-    "Suburb": "AUBIN GROVE",
+    "Suburb": "Aubin Grove",
     "Houses": 1875,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D1IfqRWVygf8lJBWmxmS6z8QpDPNs%26ll%3D-32.16898141906955%252C115.8631468000001%26z%3D15&sa=D&ust=1534598122588000,"
   },
   {
-    "Suburb": "BEELIAR",
+    "Suburb": "Beeliar",
     "Houses": 2400,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D1tw7TauNRXu_AWg9kGLUWiptFwXY%26ll%3D-32.133155881541484%252C115.81469534999997%26z%3D15&sa=D&ust=1534598122589000,"
   },
   {
-    "Suburb": "GOLDEN BAY",
+    "Suburb": "Golden Bay",
     "Houses": 1700,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D1Sy14UBLRZ4BXYga98Ajct6wPD2A%26ll%3D-32.42534235541951%252C115.76012850000006%26z%3D15&sa=D&ust=1534598122590000,"
   },
   {
-    "Suburb": "GREENFIELDS",
+    "Suburb": "Greenfields",
     "Houses": 3450,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://drive.google.com/open?id%3D1717Hr8YwwwuFCJgSPZA1UpUQ1_E%26usp%3Dsharing&sa=D&ust=1534598122590000,"
   },
   {
-    "Suburb": "MEADOW SPRINGS",
+    "Suburb": "Meadow Springs",
     "Houses": 2725,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://drive.google.com/open?id%3D1XdP5ZKRpI6bpOOcTOp8hgmESVi8%26usp%3Dsharing&sa=D&ust=1534598122591000,"
   },
   {
-    "Suburb": "PORT KENNEDY",
+    "Suburb": "Port Kennedy",
     "Houses": 4300,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D1Txt5o0I9O_SdRD59ShFKifTnFBA%26ll%3D-32.35942110983946%252C115.75746775347284%26z%3D14&sa=D&ust=1534598122591000,"
   },
   {
-    "Suburb": "SAN REMO",
+    "Suburb": "San Remo",
     "Houses": 400,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://drive.google.com/open?id%3D1OqRLzKr0a8oBMTbybrLcXH3gzCI%26usp%3Dsharing&sa=D&ust=1534598122592000,"
   },
   {
-    "Suburb": "SILVER SANDS",
+    "Suburb": "Silver Sands",
     "Houses": 600,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://drive.google.com/open?id%3D1M1hj2Fk1ZzyHWvf8L7YUKZ_VOkQ%26usp%3Dsharing&sa=D&ust=1534598122592000,"
   },
   {
-    "Suburb": "SINGLETON",
+    "Suburb": "Singleton",
     "Houses": 1300,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D1MkXmqs9wM9qxpYs7RBTOIKwwtA0%26ll%3D-32.44502817455536%252C115.75881959999992%26z%3D15&sa=D&ust=1534598122593000,"
   },
   {
-    "Suburb": "WARNBRO",
+    "Suburb": "Warnbro",
     "Houses": 3650,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?hl%3Den%26mid%3D19oK3jzPz-hoYx5jpkZS-smOP3RY%26ll%3D-32.338778769736315%252C115.75690985000006%26z%3D15&sa=D&ust=1534598122593000,"
   },
   {
-    "Suburb": "BALDIVIS",
+    "Suburb": "Baldivis",
     "Houses": 9200,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D1EMh-zPT4prtPdECpLpqmGeZjqj4%26ll%3D-32.33788398498058%252C115.77924730832524%26z%3D13&sa=D&ust=1534598122594000,"
   },
   {
-    "Suburb": "COOLOONGUP",
+    "Suburb": "Cooloongup",
     "Houses": 2500,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://drive.google.com/open?id%3D1iIe12_5QQI1MyUDVuBmVR9apYws%26usp%3Dsharing&sa=D&ust=1534598122594000,"
   },
   {
-    "Suburb": "ERSKINE",
+    "Suburb": "Erskine",
     "Houses": 1500,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://drive.google.com/open?id%3D1NBWok_RGitAmguuJG8o0LP1uHHM%26usp%3Dsharing&sa=D&ust=1534598122595000,"
   },
   {
-    "Suburb": "HALLS HEAD",
+    "Suburb": "Halls Head",
     "Houses": 4850,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://drive.google.com/open?id%3D1WjNOrORFUmBU57RRr1V8kdYWAHM%26usp%3Dsharing&sa=D&ust=1534598122595000,"
   },
   {
-    "Suburb": "HAMMOND PARK",
+    "Suburb": "Hammond Park",
     "Houses": 1400,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D1PR4v-UDjuRHbyYN3HAjkgJtK4kI%26ll%3D-32.1708654871753%252C115.83786962957765%26z%3D14&sa=D&ust=1534598122596000,"
   },
   {
-    "Suburb": "WAIKIKI",
+    "Suburb": "Waikiki",
     "Houses": 4175,
     "Area": "Rockingham/Mandurah",
     "Links": "https://www.google.com/url?q=https://www.google.com/maps/d/edit?mid%3D1BngZWtBIEIUiyQ8v6uf-Yl0cX-k%26ll%3D-32.314772011910335%252C115.75085873675539%26z%3D15&sa=D&ust=1534598122596000"

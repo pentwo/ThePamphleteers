@@ -4,13 +4,14 @@ const tableRockMan = document.querySelector(".tableRockMan");
 const table = document.querySelector(".table");
 
 const tableTitle = `
-  <thead>
+  <thead class="thead-dark">
     <tr>
       <th>Suburbs</th>
       <th>Houses</th>
       <th>Links</th>
     </tr>
   </thead>
+  <tbody>
   `;
 
 // let northHtml = tableTitle;
@@ -100,16 +101,17 @@ function fetchData(prop) {
       return data.forEach(item => {
         if (item.Area === prop) {
           html += `
-          <tbody>
+
             <tr>
-              <td>${Capitalize(item.Suburb)}</td>
+              <th scope="row" class="text-capitalize">${item.Suburb}</th>
               <td>${item.Houses}</td>
               <td><a href="${item.Links}" target="_blank">Map</a></td>
             </tr>
-          </tbody>
+
         `;
         }
-        table.innerHTML = html;
+        document.querySelector(".table-title").innerHTML = prop;
+        table.innerHTML = html + `</tbody>`;
       });
     });
 }

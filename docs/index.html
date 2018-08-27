@@ -7,52 +7,38 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>The Pamphleteers Deliver Schedules</title>
   <link href="/docs/imgs/favicon.ico" rel="icon" type="image/x-icon" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
+    crossorigin="anonymous">
 </head>
 
 <body>
-  <section class="section">
-    <div class="container">
-      <h1 class="title has-text-centered">The Pamphleteers</h1>
-      <h2 class="title has-text-centered">Delivery Areas
-        </h>
+
+  <div class="container text-center">
+    <h1 class="title ">The Pamphleteers</h1>
+    <h2 class="title ">Delivery Areas</h2>
+
+    <div class="mx-auto my-3">
+
+      <button type="button" class=" btn btn-success " onclick="showNorth()">
+        <i class="fas fa-angle-up"></i> North
+      </button>
+      <button type="button" class=" btn btn-warning " onclick="showSouth()">
+        <i class="fas fa-angle-down"></i> South
+      </button>
+      <button type="button" class=" btn btn-info " onclick="showRockMan()">
+        <i class="fas fa-angle-double-down"></i> Rockingham / Mandurah
+      </button>
     </div>
-  </section>
-  <section class="section">
-    <div class="container is-fluid ">
-      <div class="columns is-centered">
-        <div class="column"></div>
-        <div class="field is-grouped buttons ">
-          <a class="northArea button is-success " onclick="showNorth()">North</a>
-          <a class="southArea button is-link " onclick="showSouth()">South</a>
-          <a class="rockArea button is-info " onclick="showRockMan()">Rock / Man</a>
-        </div>
-        <div class="column"></div>
-      </div>
+    <h3 class="table-title"></h3>
+    <table class="table table-striped">
+    </table>
+  </div>
 
 
-      <div class="columns is-centered">
-        <div class="column"></div>
-        <div class="column is-primary is-centered">
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.2/css/bulma.css"> -->
 
-
-          <!-- <table class="table tableNorth is-centered">
-          </table>
-
-          <table class="table tableSouth is-centered">
-          </table>
-
-          <table class="table tableRockMan is-centered">
-          </table> -->
-          <table class="table is-centered">
-          </table>
-        </div>
-        <div class="column"></div>
-
-      </div>
-    </div>
-  </section>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.2/css/bulma.css">
-  <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
   <script src="app.js"></script>
   <link rel="stylesheet" href="style.css">
 </body>
